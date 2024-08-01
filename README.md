@@ -32,7 +32,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 ## Analysis and Findings
 
-![Uploading Aspose.Words.6bb68afa-ec76-4280-a721-1f637ba80c1a.002.png…]()
+![Aspose Words 6bb68afa-ec76-4280-a721-1f637ba80c1a 002](https://github.com/user-attachments/assets/e60fd4e1-d0fc-40d6-a5e2-988901da2f68)
 
 The accompanying bar graph shows the percentage of reservations that are canceled and those that are not. It is obvious that there are still a significant number of reservations that have not been canceled. There are still 37% of clients who canceled their reservation, which has a significant impact on the hotels' earnings.
 
